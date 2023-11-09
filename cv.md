@@ -33,4 +33,4 @@ function moveZeros(arr) {
 A1, I watch TV series in English with subtitles and read technical documentation in English with Google Translate to better understand English.
 
 # Projects
-**Completed:** [rsschool-cv](https://github.com/kupzov2000/rsschool-cv)z
+**Completed:** [rsschool-cv](https://github.com/kupzov2000/rsschool-cv)
