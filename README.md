@@ -1,0 +1,1 @@
+[rsschool-cv](https://kupzov2000.github.io/rsschool-cv/cv)
