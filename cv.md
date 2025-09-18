@@ -32,5 +32,5 @@ function moveZeros(arr) {
     + https://learn.javascript.ru/
 
 # English
-A1, I watch TV series in English with subtitles, read technical documentation in English using Google Translate, and also practice English in Duolingo to better understand English.
+A1, I watch TV series in English with subtitles, read technical documentation in English using Google Translate, and also practice English in the Duolingo mobile app to better understand English.
 
